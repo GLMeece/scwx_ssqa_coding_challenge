@@ -39,7 +39,7 @@ To remove as much complexity as possible:
 1. [Pull down the master branch as a Zip file](https://github.com/GLMeece/scwx_ssqa_coding_challenge/archive/master.zip) 
 2. Unzip the archive.
 3. CD into the directory for execution.
-4. Using a terminal, execute: `pip3 -r requirements.txt` 
+4. Using a terminal, execute: `pip3 install -r requirements.txt` 
    Note that ideally one would have created a virtual environment for this execution, but that is left to the reader for brevity's sake.
 
 ## Execution

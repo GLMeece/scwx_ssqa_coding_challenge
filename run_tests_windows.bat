@@ -1,1 +1,1 @@
-pytest -q test_coding_challenge.py --html=reports/report.html
+python -m pytest -q test_coding_challenge.py --html=reports/report.html

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pytest -q test_coding_challenge.py --html=reports/report.html
+python3 -m pytest -q test_coding_challenge.py --html=reports/report.html
